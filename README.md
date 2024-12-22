@@ -75,7 +75,7 @@ in order to visualize the tf publication run in a terminal:
 ros2 topic echo /tf 
 ```
 With this command you are subscribing to the /tf topic to view the current transformation data being published in a ROS 2 environment.
-Once the Aruco marker has been detected, another trasformation will compare: the one between “world” and “aruco_marker_frame”
+Once the Aruco marker has been detected, another trasformation will appear: the one between “world” and “aruco_marker_frame”
 
 Visualize on Rviz
 ```
