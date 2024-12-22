@@ -1,0 +1,119 @@
+waypoints:
+  - position:
+      x: -2.45
+      y: -2.5
+      z: 0.1
+    orientation:
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 0.0
+  - position:
+      x: -2.45
+      y: -2.5
+      z: 0.1
+    orientation:
+      x: 0.9659
+      y: 0.0
+      z: 0.0
+      w: 0.2588
+  - position:
+      x: -2.45
+      y: -2.5
+      z: 0.1
+    orientation:
+      x: 0.866
+      y: 0.0
+      z: 0.0
+      w: 0.5
+  - position:
+      x: -2.45
+      y: -2.5
+      z: 0.1
+    orientation:
+      x: 0.7071
+      y: 0.0
+      z: 0.0
+      w: 0.7071
+  - position:
+      x: -2.45
+      y: -2.5
+      z: 0.1
+    orientation:
+      x: 0.5
+      y: 0.0
+      z: 0.0
+      w: 0.866
+  - position:
+      x: -2.45
+      y: -2.5
+      z: 0.1
+    orientation:
+      x: 0.2588
+      y: 0.0
+      z: 0.0
+      w: 0.9659
+  - position:
+      x: -2.45
+      y: -2.5
+      z: 0.1
+    orientation:
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: -1.0
+  - position:
+      x: -2.45
+      y: -2.5
+      z: 0.1
+    orientation:
+      x: -0.2588
+      y: 0.0
+      z: 0.0
+      w: 0.9659
+  - position:
+      x: -2.45
+      y: -2.5
+      z: 0.1
+    orientation:
+      x: -0.5
+      y: 0.0
+      z: 0.0
+      w: 0.866
+  - position:
+      x: -2.45
+      y: -2.5
+      z: 0.1
+    orientation:
+      x: -0.707
+      y: 0.0
+      z: 0.0
+      w: 0.707
+  - position:
+      x: -2.45
+      y: -2.5
+      z: 0.1
+    orientation:
+      x: -0.866
+      y: 0.0
+      z: 0.0
+      w: 0.5
+  - position:
+      x: -2.45
+      y: -2.5
+      z: 0.1
+    orientation:
+      x: 0.2588
+      y: 0.0
+      z: 0.0
+      w: -0.9659
+  - position:
+      x: -3.0
+      y: 3.5
+      z: 0.1
+    orientation:
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 0.0
+
